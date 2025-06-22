@@ -20,5 +20,4 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lax3n&label=Profile%20views&color=0e75b6&style=flat" alt="Lax3n" />
 </p>
