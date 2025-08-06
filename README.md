@@ -16,6 +16,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
+![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS)
+![JS](https://img.shields.io/badge/-JS-333?style=flat&logo=JS)
 
 
 
