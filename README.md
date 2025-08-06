@@ -15,7 +15,7 @@
 ### 🔧 Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=C++)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=Cplusplus)
 ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=CSS)
 ![JS](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=JavaScript)
